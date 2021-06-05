@@ -80,3 +80,20 @@ Grzegorz
 ## Muzyka
 
 "Prod. by NEXX"
+
+
+# Wizualizacja
+
+Muzyka zostanie wykorzystania przy prowadzeniu zdalnych konferencji, webcastów, filmów reklamowych.
+
+W przygotowaniu jest wizualizacja mająca na celu pokazanie zasady działania Web Streamu,
+Mamy nadzieję, że w połączeniu z muzyką efekt będzie zadowalajacy, lepszy niż rozdzielnie.
+
+
+---
++ [edit](https://github.com/web-stream/music/edit/main/README.md)
+```
+https://github.com/web-stream/music.git
+```
+
+
