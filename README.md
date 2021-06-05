@@ -71,11 +71,14 @@ Pierwsza wersja była nieco dłuższa miała nieco inną formę, została doprac
     .dev
 
 
-## Muzyka
+## Słowa
 
-"Prod. by NEXX"
-
+Tom Sapletta
 
 ## Głos
 
 wykonana przez Grzegorza
+
+## Muzyka
+
+"Prod. by NEXX"
