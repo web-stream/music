@@ -73,7 +73,7 @@ Pierwsza wersja była nieco dłuższa miała nieco inną formę, została doprac
 
 Tom Sapletta
 
-## Głos i Montaż Utworu
+## Głos i montaż utworu
 
 Grzegorz
 
@@ -86,8 +86,7 @@ Grzegorz
 
 Muzyka zostanie wykorzystania przy prowadzeniu zdalnych konferencji, webcastów, filmów reklamowych.
 
-W przygotowaniu jest wizualizacja mająca na celu pokazanie zasady działania Web Streamu,
-Mamy nadzieję, że w połączeniu z muzyką efekt będzie zadowalajacy, lepszy niż rozdzielnie.
+W przygotowaniu jest wizualizacja mająca na celu pokazanie zasady działania Web Streamu, mamy nadzieję, że w połączeniu z muzyką efekt będzie lepszy.
 
 
 ---
