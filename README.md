@@ -64,11 +64,9 @@ Pierwsza wersja była nieco dłuższa miała nieco inną formę, została doprac
     web stream
     
     The Future is a stream
-    web
-    
-    stream
-    
-    .dev
+    web stream    
+    .
+    dev
 
 
 ## Słowa
