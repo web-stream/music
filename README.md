@@ -73,9 +73,9 @@ Pierwsza wersja była nieco dłuższa miała nieco inną formę, została doprac
 
 Tom Sapletta
 
-## Głos
+## Głos i Montaż Utworu
 
-wykonana przez Grzegorza
+Grzegorz
 
 ## Muzyka
 
