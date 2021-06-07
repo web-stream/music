@@ -1,7 +1,10 @@
 # music.webstream.dev
 Our first Song about our Vision!
 
-+ [WebStream.dev - Demo1 von Softreck, SoundCloud](https://soundcloud.com/tom-softreck/webstreamdev-demo1)
++ [guitar - webstream-dev](https://soundcloud.com/softreck/guitar-webstream)
++ [Grime, Electronic - webstream-dev](https://soundcloud.com/softreck/webstream-dev)
++ [Demo1 von Softreck, SoundCloud](https://soundcloud.com/softreck/webstreamdev-demo1)
+
 
 ## Dlaczego piosenka?
 
