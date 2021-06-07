@@ -75,7 +75,7 @@ Tom Sapletta
 
 ## Głos i montaż utworu
 
-Grzesiek Górkiewicz
+[Grzesiek Górkiewicz](https://www.fiverr.com/gregoo7)
 
 ## Muzyka
 
