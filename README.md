@@ -30,7 +30,7 @@ Dnia 01.06.2021, nad rankem dopadła mnie wena :)
 
 Dwa dni potem 03.06.2021 już rozmawiałem z Twórcą muzyki,
 
-Po konsultacji została dobrana muzyka oraz zaśpiewał Grzegorz, polski muzyk.
+Po konsultacji została dobrana muzyka, zaśpiewał ją Grzegorz, polski muzyk.
 
 
 
