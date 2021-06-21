@@ -4,9 +4,9 @@
 
 The Vision is a song, words in music describing our Vision:
 
-+ [guitar - webstream-dev](https://soundcloud.com/softreck/guitar-webstream)
 + [Grime, Electronic - webstream-dev](https://soundcloud.com/softreck/webstream-dev)
-+ [Demo1 von Softreck, SoundCloud](https://soundcloud.com/softreck/webstreamdev-demo1)
++ [guitar - webstream-dev](https://soundcloud.com/softreck/guitar-webstream)
+
 
 
 ## Dlaczego piosenka?
