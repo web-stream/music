@@ -24,7 +24,7 @@ ponieważ to nie tylko słowa ale i muzyka niosąca przesłanie, wizję do wykon
 
 ## Historia powstania
 
-Najpierw powstał tekst, 
+Na początku było słowo ...
 
 Dnia 01.06.2021, nad ranem dopadła mnie wena, napisałem tekst, dwa dni potem, 03.06.2021 rozmawiałem z Twórcą muzyki :)
 
