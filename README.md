@@ -1,6 +1,6 @@
 # music.webstream.dev
 
-## The Vision
+## Our Vision
 
 The Vision is a song, words in music describing our Vision:
 
