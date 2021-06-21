@@ -1,4 +1,4 @@
-# music.webstream.dev
+# [music.webstream.dev](https://music.webstream.dev/)
 
 ## Our Vision
 
