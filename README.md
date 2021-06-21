@@ -26,11 +26,9 @@ ponieważ to nie tylko słowa ale i muzyka niosąca przesłanie, wizję do wykon
 
 Najpierw powstał tekst, 
 
-Dnia 01.06.2021, nad rankem dopadła mnie wena :)
+Dnia 01.06.2021, nad ranem dopadła mnie wena, dwa dni potem, 03.06.2021 już rozmawiałem z Twórcą muzyk :)
 
-Dwa dni potem 03.06.2021 już rozmawiałem z Twórcą muzyki,
-
-Po konsultacji została dobrana muzyka, zaśpiewał ją Grzegorz, polski muzyk.
+Po konsultacji została dobrana muzyka, zaśpiewał ją [Grzesiek Górkiewicz](https://www.fiverr.com/gregoo7), polski muzyk.
 
 
 
